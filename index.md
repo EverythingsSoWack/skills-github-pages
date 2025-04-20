@@ -1,7 +1,3 @@
-# Github Pages
-## Another skill to level up!
-
-| SECTION |
-| ------- |
-| Introduction |
-
+---
+title: Github Pages
+---
