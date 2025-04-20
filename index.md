@@ -1,4 +1,7 @@
----
-title: Welcome to my blog
----
+# Github Pages
+## Another skill to level up!
+
+| SECTION |
+| ------- |
+| Introduction |
 
